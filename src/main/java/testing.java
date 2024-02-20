@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class testing {
+public class testing {
+     String authCode = AuthorizationConfig.getAuthorizationCode();
+     int test = 1;
 }
